@@ -1,4 +1,4 @@
-# Experiment-4---Implementation-of-MLP-with-Backpropagation
+# Experiment-4-IMPLEMENTATION OF MLP FOR MULTICLASSIFICATION
 
 ## AIM:
 To implement a Multilayer Perceptron for Multi classification
